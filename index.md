@@ -22,7 +22,6 @@ Things I like about CS 193
 - It's CS related.
 - You learn stuff.
 - You get to meet new people.
--
 
 1. Numbered
 2. List
